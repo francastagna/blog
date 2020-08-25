@@ -1,7 +1,6 @@
-# blog
-A blog app made with django.
+# Blog
 
-This is a blog project made with Django Python Framework, HTML, CSS and Bootstrap.
+This is a blog website made with Django Python Framework, HTML, CSS and Bootstrap.
 In this blog:
 -There are categories for the blog posts
 -There is a User Authentication system
