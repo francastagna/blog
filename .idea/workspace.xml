@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3536537-340c-409d-a746-07557b8dda54" name="Default Changelist" comment="Finished :D">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0002_post_title_tag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0003_auto_20200822_1835.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0004_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0005_post_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0006_post_likes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0007_auto_20200823_2252.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0008_post_snippet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0009_auto_20200824_0211.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0010_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0011_auto_20200824_0300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/0012_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/add_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/add_comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/add_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/article_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/category_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/delete_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/templates/update_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/profile/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/change_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/create_user_profile_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/edit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/edit_profile_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/password_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/templates/registration/user_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/blog_app/images/BeFunky-collage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/blog_app/images/default_profile.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="340edf85-2f28-4908-ab1f-70f4f88d6580" />
+  <component name="ProjectId" id="1gPoHmAFtg41NjNdXor18kNcAke" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/blog_app/templates/base.html&#10;true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fran\Dev\blog\members\templates\registration" />
+      <recent name="C:\Users\Fran\Dev\blog\blog_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3536537-340c-409d-a746-07557b8dda54" name="Default Changelist" comment="" />
+      <created>1598025503297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598025503297</updated>
+      <workItem from="1598025506289" duration="15943000" />
+      <workItem from="1598129158952" duration="13577000" />
+      <workItem from="1598190130356" duration="5657000" />
+      <workItem from="1598199333193" duration="2505000" />
+      <workItem from="1598220400835" duration="23675000" />
+      <workItem from="1598301606515" duration="6723000" />
+      <workItem from="1598370248186" duration="6821000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finished :D">
+      <created>1598378299761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598378299761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="980" y="175" key="FileChooserDialogImpl" timestamp="1598378368573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="980" y="175" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598378368573" />
+    <state width="754" height="217" key="GridCell.Tab.0.bottom" timestamp="1598378201780">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598378201780" />
+    <state width="754" height="217" key="GridCell.Tab.0.center" timestamp="1598378201780">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598378201780" />
+    <state width="754" height="217" key="GridCell.Tab.0.left" timestamp="1598378201779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598378201779" />
+    <state width="754" height="217" key="GridCell.Tab.0.right" timestamp="1598378201780">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="754" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598378201780" />
+    <state x="1030" y="303" key="VCS.EditChangelistDialog" timestamp="1598378910139">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1030" y="303" key="VCS.EditChangelistDialog/0.0.1600.860@0.0.1600.860" timestamp="1598378910139" />
+    <state x="711" y="230" key="Vcs.Push.Dialog.v2" timestamp="1598378784738">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="711" y="230" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1598378784738" />
+    <state x="1017" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598378981419">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1017" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1598378981418" />
+    <state x="841" y="163" width="700" height="530" key="recent.locations.popup" timestamp="1598053621130">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="841" y="163" width="700" height="530" key="recent.locations.popup/0.0.1600.860@0.0.1600.860" timestamp="1598053621130" />
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1598377094378">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="863" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1598377094378" />
+  </component>
+</project>
