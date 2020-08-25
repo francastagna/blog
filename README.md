@@ -7,4 +7,4 @@ This is a blog website made with Django Python Framework, HTML, CSS and Bootstra
 * There is a User Authentication system
 * Under the blog posts you can add comments
 * Each Registered User have a profile, wich can be customized easily
-* And a lot more :D
+* And a lot more
